@@ -1,0 +1,50 @@
+{
+  "stickers" : [
+    {
+      "filename" : "sticker_shaka_big.sticker"
+    },
+    {
+      "filename" : "sticker_shaka_twist.sticker"
+    },
+    {
+      "filename" : "stickers_02_shoots.sticker"
+    },
+    {
+      "filename" : "stickers_aloha_01.sticker"
+    },
+    {
+      "filename" : "stickers_alohaShavedIce01.sticker"
+    },
+    {
+      "filename" : "stickers_azukiBean_shaveice.sticker"
+    },
+    {
+      "filename" : "stickers_cheeHoo_01.sticker"
+    },
+    {
+      "filename" : "stickers_mochi_shaveice.sticker"
+    },
+    {
+      "filename" : "stickers_ono_01.sticker"
+    },
+    {
+      "filename" : "stickers_pineapple_guava_shaveice.sticker"
+    },
+    {
+      "filename" : "stickers_rainbow_shaveice.sticker"
+    },
+    {
+      "filename" : "stickers_snowCap_shaveice.sticker"
+    },
+    {
+      "filename" : "stickers_strawberryCreme_shaveice.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "small"
+  }
+}
