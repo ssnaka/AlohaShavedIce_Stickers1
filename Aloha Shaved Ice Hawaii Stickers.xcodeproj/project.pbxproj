@@ -271,7 +271,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = A4835Z75W3;
 				INFOPLIST_FILE = "Aloha Shaved Ice Hawaii Stickers StickerPackExtension/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "naka.Aloha-Shaved-Ice-Hawaii-Stickers.StickerPackExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.naka.Aloha-Shaved-Ice-Hawaii-Stickers.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -285,7 +285,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = A4835Z75W3;
 				INFOPLIST_FILE = "Aloha Shaved Ice Hawaii Stickers StickerPackExtension/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "naka.Aloha-Shaved-Ice-Hawaii-Stickers.StickerPackExtension";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.naka.Aloha-Shaved-Ice-Hawaii-Stickers.StickerPackExtension";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -299,7 +299,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = A4835Z75W3;
 				INFOPLIST_FILE = "Aloha Shaved Ice Hawaii Stickers/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "naka.Aloha-Shaved-Ice-Hawaii-Stickers";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.naka.Aloha-Shaved-Ice-Hawaii-Stickers";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -312,7 +312,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = A4835Z75W3;
 				INFOPLIST_FILE = "Aloha Shaved Ice Hawaii Stickers/Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = "naka.Aloha-Shaved-Ice-Hawaii-Stickers";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.naka.Aloha-Shaved-Ice-Hawaii-Stickers";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
