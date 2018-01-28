@@ -4,7 +4,31 @@
       "filename" : "sticker_shaka_big.sticker"
     },
     {
+      "filename" : "sticker_shaka_big_L.sticker"
+    },
+    {
+      "filename" : "sticker_shaka_big_darker_R.sticker"
+    },
+    {
+      "filename" : "sticker_shaka_big_darker_L.sticker"
+    },
+    {
       "filename" : "sticker_shaka_twist.sticker"
+    },
+    {
+      "filename" : "stickers_brah_02.sticker"
+    },
+    {
+      "filename" : "stickers_brah_01.sticker"
+    },
+    {
+      "filename" : "stickers_ono_02.sticker"
+    },
+    {
+      "filename" : "stickers_cheeHoo_01.sticker"
+    },
+    {
+      "filename" : "stickers_ono_01-1.sticker"
     },
     {
       "filename" : "stickers_02_shoots.sticker"
@@ -19,13 +43,7 @@
       "filename" : "stickers_azukiBean_shaveice.sticker"
     },
     {
-      "filename" : "stickers_cheeHoo_01.sticker"
-    },
-    {
       "filename" : "stickers_mochi_shaveice.sticker"
-    },
-    {
-      "filename" : "stickers_ono_01.sticker"
     },
     {
       "filename" : "stickers_pineapple_guava_shaveice.sticker"
@@ -38,6 +56,39 @@
     },
     {
       "filename" : "stickers_strawberryCreme_shaveice.sticker"
+    },
+    {
+      "filename" : "sticker_sadShaveice_01.sticker"
+    },
+    {
+      "filename" : "glasses_1.sticker"
+    },
+    {
+      "filename" : "glasses_2.sticker"
+    },
+    {
+      "filename" : "glasses_3.sticker"
+    },
+    {
+      "filename" : "glasses_4.sticker"
+    },
+    {
+      "filename" : "glasses_5.sticker"
+    },
+    {
+      "filename" : "glasses_6.sticker"
+    },
+    {
+      "filename" : "sticker_coconut_01.sticker"
+    },
+    {
+      "filename" : "sticker_coconut_02_move.sticker"
+    },
+    {
+      "filename" : "sticker_poi_01.sticker"
+    },
+    {
+      "filename" : "sticker_poi_02.sticker"
     }
   ],
   "info" : {
